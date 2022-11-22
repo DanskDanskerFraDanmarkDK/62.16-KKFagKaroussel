@@ -13,7 +13,8 @@ var allSubjects = {
     ],
 
     Samfundsfag: [
-        "Dansk polotik", "International politik", "Økonomi"
+        "Dansk politik", "International politik", "Økonomi", "Det senmoderne liv",
+         "Resultat af globaliseringen", "Velfærdsstaten", "Dansk Politik i opbrud?", "Meningsmålinger"
     ],
 
     Engelsk: [
@@ -34,4 +35,10 @@ var allSubjects = {
         "Livstilssygdomme", "Epidemier", "radioaktivitet", "Kønssygdomme", 
         "Nikotin"
     ],
+
+    Erhvervsøkonomi: [
+        "Virksomhedsanalyse", "Vækstteorier", "Mission og Vision i et firma", "IT-virksomheder",
+        "Intern vækst", "Ekstern vækst"
+
+    ]
 }
